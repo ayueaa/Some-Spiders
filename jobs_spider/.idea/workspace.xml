@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ddf6226-af51-43fb-8eea-0909356a5de3" name="Default" comment="" />
+    <ignored path="jobs_spider.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jobs_spider" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="lagou_m.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jobs_spider/spiders/lagou_m.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qiancheng_spider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jobs_spider/spiders/qiancheng_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhilian_spider.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jobs_spider/spiders/zhilian_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jobs_spider/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jobs_spider/pipelines.py" />
+        <option value="$PROJECT_DIR$/jobs_spider/spiders/qiancheng_spider.py" />
+        <option value="$PROJECT_DIR$/jobs_spider/spiders/zhilian_spider.py" />
+        <option value="$PROJECT_DIR$/jobs_spider/settings.py" />
+        <option value="$PROJECT_DIR$/jobs_spider/spiders/lagou_m.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1940" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.mongoOptions" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jobs_spider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ddf6226-af51-43fb-8eea-0909356a5de3" name="Default" comment="" />
+      <created>1506740151222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506740151222</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1940" height="1042" extended-state="1" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="JuliaSciView" />
+      <window_info anchor="bottom" id="调试" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32938388" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" visible="true" weight="0.3287234" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.38181818" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17021276" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jobs_spider/spiders/lagou_m.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/spiders/qiancheng_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/spiders/zhilian_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/spiders/lagou_m.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/scrapy/spiders/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/jobs_spider/spiders/lagou_m.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/scrapy/spiders/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/jobs_spider/spiders/qiancheng_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/settings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/spiders/qiancheng_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/scrapy/spiders/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/jobs_spider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/spiders/lagou_m.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/spiders/qiancheng_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs_spider/spiders/zhilian_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

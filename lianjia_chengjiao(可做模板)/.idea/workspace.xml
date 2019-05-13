@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19f34c52-5c96-4c98-8434-9fd86db04668" name="默认" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/lianjia_chengjiao$.coverage" NAME="为数据库房源添加经纬度 Coverage Results" MODIFIED="1553050982950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianjia_chengjiao$pandans.coverage" NAME="pandans合并数据库表重写入 Coverage Results" MODIFIED="1553065272194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../脚本爬虫/链家二手房-成都" />
+    <SUITE FILE_PATH="coverage/lianjia_chengjiao__$day4__1.coverage" NAME="day4 -1 Coverage Results" MODIFIED="1553940948573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/黑马作业练习/王越" />
+    <SUITE FILE_PATH="coverage/lianjia_chengjiao__$day4__2.coverage" NAME="day4 -2 Coverage Results" MODIFIED="1553941592341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/黑马作业练习/王越" />
+    <SUITE FILE_PATH="coverage/lianjia_chengjiao$chengjiao.coverage" NAME="chengjiao Coverage Results" MODIFIED="1552923144198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianjia_chengjiao/spiders" />
+    <SUITE FILE_PATH="coverage/lianjia_chengjiao$run.coverage" NAME="run Coverage Results" MODIFIED="1552967373529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianjia_chengjiao" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="32" />
+              <folding>
+                <element signature="e#169#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding>
+                <element signature="e#195#209#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1380">
+              <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lianjia_chengjiao/middlewares.py" />
+        <option value="$PROJECT_DIR$/lianjia_chengjiao/run.py" />
+        <option value="$PROJECT_DIR$/lianjia_chengjiao/items.py" />
+        <option value="$PROJECT_DIR$/lianjia_chengjiao/settings.py" />
+        <option value="$PROJECT_DIR$/lianjia_chengjiao/pipelines.py" />
+        <option value="$PROJECT_DIR$/lianjia_chengjiao/spiders/chengjiao.py" />
+        <option value="$PROJECT_DIR$/为数据库房源添加经纬度.py" />
+        <option value="$PROJECT_DIR$/../脚本爬虫/链家二手房-成都/pandans合并数据库表重写入.py" />
+        <option value="G:/黑马作业练习/王越/day4 -1.py" />
+        <option value="G:/黑马作业练习/王越/day4 -2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="580" />
+    <option name="y" value="53" />
+    <option name="width" value="1312" />
+    <option name="height" value="1006" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.day4 -2">
+    <configuration name="为数据库房源添加经纬度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lianjia_chengjiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/为数据库房源添加经纬度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="day4 -1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lianjia_chengjiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="G:/黑马作业练习/王越" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:/黑马作业练习/王越/day4 -1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="day4 -2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lianjia_chengjiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="G:/黑马作业练习/王越" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:/黑马作业练习/王越/day4 -2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pandans合并数据库表重写入" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lianjia_chengjiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../脚本爬虫/链家二手房-成都" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../脚本爬虫/链家二手房-成都/pandans合并数据库表重写入.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lianjia_chengjiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lianjia_chengjiao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianjia_chengjiao/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.为数据库房源添加经纬度" />
+      <item itemvalue="Python.pandans合并数据库表重写入" />
+      <item itemvalue="Python.day4 -1" />
+      <item itemvalue="Python.day4 -2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.day4 -2" />
+        <item itemvalue="Python.day4 -1" />
+        <item itemvalue="Python.pandans合并数据库表重写入" />
+        <item itemvalue="Python.为数据库房源添加经纬度" />
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19f34c52-5c96-4c98-8434-9fd86db04668" name="默认" comment="" />
+      <created>1552893828241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552893828241</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="580" y="53" width="1312" height="1006" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="JuliaSciView" order="1" weight="0.32995737" />
+      <window_info anchor="bottom" id="调试" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5007987" side_tool="true" weight="0.4385343" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49920127" weight="0.46251443" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="6" />
+      <window_info anchor="right" id="Mongo Explorer" order="0" weight="0.321885" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.32978722" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.22839506" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3290735" />
+      <window_info anchor="right" id="SciView" order="2" weight="0.32995737" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="e#195#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../脚本爬虫/链家二手房-成都/pandans合并数据库表重写入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/spiders/chengjiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="73" column="54" selection-start-line="73" selection-start-column="54" selection-end-line="73" selection-end-column="54" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="e#195#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/spiders/chengjiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="e#195#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/spiders/chengjiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" column="44" lean-forward="true" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="e#195#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/spiders/chengjiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="e#195#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/spiders/chengjiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="72" column="37" lean-forward="true" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="37" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+          <folding>
+            <element signature="e#195#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/spiders/chengjiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1691">
+          <caret line="89" column="85" lean-forward="true" selection-start-line="89" selection-start-column="85" selection-end-line="89" selection-end-column="85" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="49" lean-forward="true" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+          <folding>
+            <element signature="e#195#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/为数据库房源添加经纬度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-741">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandans合并数据库表重写入.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="e#195#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../脚本爬虫/链家二手房-成都/pandans合并数据库表重写入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/spiders/chengjiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/黑马作业练习/王越/day4 -1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/黑马作业练习/王越/day4 -2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_chengjiao/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

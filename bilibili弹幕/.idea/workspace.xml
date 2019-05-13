@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf0afdbc-e838-462b-ad49-1971e19fa268" name="默认" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/biibili$aochangzhang.coverage" NAME="aochangzhang Coverage Results" MODIFIED="1555073053858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/biibili/spiders" />
+    <SUITE FILE_PATH="coverage/biibili$run.coverage" NAME="run Coverage Results" MODIFIED="1555074500442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/biibili$day06_9.coverage" NAME="day06-9斗地主 Coverage Results" MODIFIED="1555075945830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/黑马作业练习" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="aochangzhang.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/biibili/spiders/aochangzhang.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="46" column="79" lean-forward="true" selection-start-line="46" selection-start-column="79" selection-end-line="46" selection-end-column="79" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/biibili/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/biibili/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/biibili/settings.py" />
+        <option value="$PROJECT_DIR$/biibili/items.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="G:/黑马作业练习/day06-9斗地主.py" />
+        <option value="$PROJECT_DIR$/biibili/spiders/aochangzhang.py" />
+        <option value="$PROJECT_DIR$/item.csv" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="349" />
+    <option name="y" value="168" />
+    <option name="width" value="1316" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="biibili" type="b2602c69:ProjectViewProjectNode" />
+              <item name="biibili" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.day06-9斗地主">
+    <configuration name="aochangzhang" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="biibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/biibili/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/biibili/spiders/aochangzhang.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="day06-9斗地主" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="biibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="G:/黑马作业练习" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:/黑马作业练习/day06-9斗地主.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="biibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.aochangzhang" />
+      <item itemvalue="Python.day06-9斗地主" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.day06-9斗地主" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.aochangzhang" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf0afdbc-e838-462b-ad49-1971e19fa268" name="默认" comment="" />
+      <created>1555071457716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555071457716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="JuliaSciView" order="5" />
+      <window_info anchor="bottom" id="调试" order="4" weight="0.32997763" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="6" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.21140939" />
+      <window_info anchor="right" id="Mongo Explorer" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16746667" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="JuliaSciView" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.32984293" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Python Console" order="6" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="right" id="Mongo Explorer" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="调试" order="4" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/biibili/spiders/aochangzhang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="45" column="110" selection-start-line="45" selection-start-column="110" selection-end-line="45" selection-end-column="110" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biibili/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biibili/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://G:/黑马作业练习/day06-9斗地主.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biibili/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biibili/spiders/aochangzhang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="46" column="79" lean-forward="true" selection-start-line="46" selection-start-column="79" selection-end-line="46" selection-end-column="79" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item.csv">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="true" rowLines="0">
+          <column index="0" width="112" />
+          <column index="1" width="130" />
+          <column index="2" width="94" />
+          <column index="3" width="103" />
+          <column index="4" width="100" />
+          <column index="5" width="122" />
+          <column index="6" width="100" />
+          <column index="7" width="90" />
+          <column index="8" width="100" />
+          <column index="9" width="100" />
+          <column index="10" width="100" />
+          <column index="11" width="100" />
+          <column index="12" width="100" />
+          <column index="13" width="100" />
+          <column index="14" width="100" />
+          <column index="15" width="100" />
+          <column index="16" width="100" />
+          <column index="17" width="100" />
+          <column index="18" width="133" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biibili/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

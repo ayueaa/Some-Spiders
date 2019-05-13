@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="zufang">
+  <database-model serializer="dbm" rdbms="SQLITE" format-version="4.0">
+    <root id="1"/>
+    <schema id="2" parent="1">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <table id="3" parent="2" name="zufang"/>
+    <column id="4" parent="3" name="title">
+      <DataType>VARCHAR(512)(0,-1)|12</DataType>
+    </column>
+    <column id="5" parent="3" name="money">
+      <Position>1</Position>
+      <DataType>VARCHAR(128)(0,-1)|12</DataType>
+    </column>
+  </database-model>
+</dataSource>
